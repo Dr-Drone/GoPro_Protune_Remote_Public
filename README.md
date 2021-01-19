@@ -19,3 +19,8 @@ OLED: -> (Pre connected) <br />
 Button 1: -> (Pre connected)<br />
 Button 2: -> | 35, GND | (Needs 10k resistor from pin 33 to 3.3v) <br />
 
+Manual: 
+
+Follow the following video: 
+https://youtu.be/quS1_II7f88
+
