@@ -1,4 +1,4 @@
-# GP_PT_Remote_Public
+# GoPro_ProTune_Remote_Public
 
 Initially created to work with the GP Session 5, should work with later models as well as naked versions. 
 
